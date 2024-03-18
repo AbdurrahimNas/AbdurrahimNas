@@ -10,7 +10,15 @@ I am a Computer Vision & Deep Learning Engineer who loves Python
 * ✉️  You can contact me at [abdurrahim.nas@hotmail.com](mailto:abdurrahim.nas@hotmail.com)
 * 🧠  I'm learning PyTorch
 * 🤝  I'm open to collaborating on Projects
-* ⚡  Batman didn't do anything wrong!!!
+
+```
+ E se dal caro oggetto
+ Lungi convien che sia
+ Convien che sia
+ Sospirerò penando
+ Ogni momento
+```
+ 
 
 ### Skills
 
