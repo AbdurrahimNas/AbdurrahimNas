@@ -8,7 +8,7 @@ I am a Computer Vision & Deep Learning Engineer who loves Python
 
 * 🌍  I'm based in Bursa
 * ✉️  You can contact me at [abdurrahim.nas@hotmail.com](mailto:abdurrahim.nas@hotmail.com)
-* 🧠  I'm learning PyTorch
+* 🧠  I'm learning PyTorch and Django 
 * 🤝  I'm open to collaborating on Projects
 
 ```
