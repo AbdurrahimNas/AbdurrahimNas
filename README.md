@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Vision & Deep Learning Engineer
 ----------------------------------------
 
-I am a Computer Vision & Deep Learning Engineer who loves Python
+I am an Electronics Engineer who loves Python
 
 * 🌍  I'm based in Bursa
 * ✉️  You can contact me at [abdurrahim.nas@hotmail.com](mailto:abdurrahim.nas@hotmail.com)
